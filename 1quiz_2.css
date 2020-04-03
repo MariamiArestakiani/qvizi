@@ -1,0 +1,41 @@
+.pirveli{
+  border-style: dotted;
+  border-color: lightseagreen;
+}
+.lurji{
+    border-style: solid;
+    border-color: blue;
+    border-width: 0px 0px 20px;
+    height: 50px;
+
+}
+.bg{
+    background-color: silver;
+}
+.write{
+    background: white;
+}
+.sof{
+    color: green;
+    text-decoration: underline;
+}
+.sof1{
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+.axali{
+    background-color: green;
+    color: yellow;
+}
+.sof1{
+    color: blue;
+    text-decoration: underline;
+}
+.sof2{
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+}
+}
